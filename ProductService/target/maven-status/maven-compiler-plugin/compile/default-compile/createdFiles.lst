@@ -1,0 +1,6 @@
+app\walking\ProductServiceApplication.class
+app\walking\entities\Message.class
+app\walking\service\ProductService.class
+app\walking\rs\ProductController.class
+app\walking\entities\Product.class
+app\walking\repo\ProductRepository.class
